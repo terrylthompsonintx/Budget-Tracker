@@ -1,5 +1,5 @@
 
-  ![CCO Logo](./assets/images/mit.png)
+
   # Budget-Tracker
   ### Table of Contents
   1. [Program Description.](#program-description)
